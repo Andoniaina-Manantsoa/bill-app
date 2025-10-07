@@ -1,0 +1,6 @@
+[submodule "Billed-app-FR-Front"]
+	path = Billed-app-FR-Front
+	url = https://github.com/Andoniaina-Manantsoa/Billed-app-FR-Front
+[submodule "Billed-app-FR-Back"]
+	path = Billed-app-FR-Back
+	url = https://github.com/Andoniaina-Manantsoa/Billed-app-FR-Back
